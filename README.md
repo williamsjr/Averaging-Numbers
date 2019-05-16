@@ -1,0 +1,2 @@
+# Averaging-Numbers
+Write a program that will compute the average of a series of numbers entered by the user. To make the program more user-friendly, store all of the numbers in a list so that the user's numbers can be displayed again before the average. Have your program stop accepting values when the user enters the value -999. Note that this value, -999, should not be averaged in with the other numbers.
